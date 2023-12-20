@@ -1,9 +1,0 @@
-{
-  "Address": "0.0.0.0:8000",
-  "ReadTimeout": 10,
-  "WriteTimeout": 600,
-  "Static": "public",
-  "DbName": "gochat",
-  "DbUser": "ed",
-  "DbPassword": "ed"
-}
